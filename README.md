@@ -3,5 +3,5 @@ Built an end-to-end Sales Analytics pipeline on Azure using Databricks + PySpark
 
 Tech: Azure Databricks, PySpark, Delta Lake, ADLS Gen2, ADF, Synapse Serverless SQL [Structured Query Language],Tableau.
 
-![Azure data pipeline diagram](assets/img/azure-pipeline.png)
+![Azure data pipeline diagram](/Users/swathibabaeswarappa/Downloads/azure_pipeline_cleaned_v6.png)
 
